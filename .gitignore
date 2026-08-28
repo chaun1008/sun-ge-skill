@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Build artifacts that can be regenerated
+*.skill
+
+# Editor stuff
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*~
